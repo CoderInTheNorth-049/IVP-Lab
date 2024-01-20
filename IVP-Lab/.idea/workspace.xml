@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="changes made">
+      <change afterPath="$PROJECT_DIR$/ASS1/output_imgs/negative_parrot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ASS1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705725221868</updated>
-      <workItem from="1705725226652" duration="1160000" />
+      <workItem from="1705725226652" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="changes made">
       <option name="closed" value="true" />
@@ -96,6 +98,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="changes made" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1705726376165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS1" />
+    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1705726934408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS1" />
   </component>
 </project>
