@@ -45,5 +45,5 @@ cv.destroyWindow("Threshold-inverse Parrot")
 # Save the grayscale and negative images to the output_imgs folder
 cv.imwrite('output_imgs/gray_parrot.jpg', grayScale_img)
 cv.imwrite('output_imgs/negative_parrot.jpg', neg_img)
-cv.imwrite('output/threshold_parrot.jpg',threshold_img)
+cv.imwrite('output_imgs/threshold_parrot.jpg',threshold_img)
 cv.imwrite('output_imgs/threshold-inv_parrot.jpg',threshold_img_inv)
