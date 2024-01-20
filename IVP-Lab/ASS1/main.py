@@ -27,6 +27,23 @@ cv.waitKey(0)
 cv.destroyWindow("Original Parrot")
 cv.destroyWindow("Negative Parrot")
 
+
+thresholdVal = 127
+
+ret, threshold_img = cv.threshold(grayScale_img, thresholdVal, 255, cv.THRESH_BINARY)
+ret, threshold_img_inv = cv.threshold(grayScale_img, thresholdVal, 255, cv.THRESH_BINARY_INV)
+
+cv.imshow("grayScale Parrot", grayScale_img)
+cv.imshow("Threshold Parrot", threshold_img)
+cv.imshow("Threshold-inverse Parrot", threshold_img_inv)
+
+cv.waitKey(0)
+cv.destroyWindow("grayScale Parrot")
+cv.destroyWindow("Threshold Parrot")
+cv.destroyWindow("Threshold-inverse Parrot")
+
 # Save the grayscale and negative images to the output_imgs folder
 cv.imwrite('output_imgs/gray_parrot.jpg', grayScale_img)
 cv.imwrite('output_imgs/negative_parrot.jpg', neg_img)
+cv.imwrite('output/threshold_parrot.jpg',threshold_img)
+cv.imwrite('output_imgs/threshold-inv_parrot.jpg',threshold_img_inv)
