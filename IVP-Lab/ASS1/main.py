@@ -60,6 +60,17 @@ cv.destroyWindow("Grayscale Parrot")
 cv.destroyWindow("Brightened Parrot")
 cv.destroyWindow("Darkened Parrot")
 
+h, w = grayScale_img.shape
+bit_planes = np.zeros((8, h, w ), dtype=np.uint8)
+
+for bit_pos in range(8):
+    bit_planes[bit_pos] = (grayScale_img >> bit_pos) & 1
+    bit_planes[bit_pos] *= 255
+    cv.imshow(f'bit plane {bit_pos}', bit_planes[bit_pos])
+    cv.imwrite(f'output_imgs/bit_plane_{bit_pos}.jpg', bit_planes[bit_pos])
+cv.waitKey(0)
+cv.destroyAllWindows()
+
 # Save the grayscale and processed images to the output_imgs folder
 cv.imwrite('output_imgs/gray_parrot.jpg', grayScale_img)
 cv.imwrite('output_imgs/negative_parrot.jpg', neg_img)
