@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="darkening and lightning added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="bit_planing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705725221868</updated>
       <workItem from="1705725226652" duration="3016000" />
-      <workItem from="1705927027314" duration="3081000" />
+      <workItem from="1705927027314" duration="3502000" />
     </task>
     <task id="LOCAL-00001" summary="changes made">
       <option name="closed" value="true" />
@@ -108,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705928478286</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="bit_planing">
+      <option name="closed" value="true" />
+      <created>1705932351939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705932351939</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,9 +136,10 @@
     <MESSAGE value="negative code added" />
     <MESSAGE value="threshold added" />
     <MESSAGE value="darkening and lightning added" />
-    <option name="LAST_COMMIT_MESSAGE" value="darkening and lightning added" />
+    <MESSAGE value="bit_planing" />
+    <option name="LAST_COMMIT_MESSAGE" value="bit_planing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1705932169944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS1" />
+    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1705932200272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS1" />
   </component>
 </project>

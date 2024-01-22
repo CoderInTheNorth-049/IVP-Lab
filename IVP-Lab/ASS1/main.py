@@ -60,14 +60,17 @@ cv.destroyWindow("Grayscale Parrot")
 cv.destroyWindow("Brightened Parrot")
 cv.destroyWindow("Darkened Parrot")
 
+# Bit-plane manipulation
 h, w = grayScale_img.shape
-bit_planes = np.zeros((8, h, w ), dtype=np.uint8)
+bit_planes = np.zeros((8, h, w), dtype=np.uint8)
 
 for bit_pos in range(8):
     bit_planes[bit_pos] = (grayScale_img >> bit_pos) & 1
     bit_planes[bit_pos] *= 255
-    cv.imshow(f'bit plane {bit_pos}', bit_planes[bit_pos])
+    cv.imshow(f'Bit Plane {bit_pos}', bit_planes[bit_pos])
     cv.imwrite(f'output_imgs/bit_plane_{bit_pos}.jpg', bit_planes[bit_pos])
+
+# Wait for a key event and then close the windows
 cv.waitKey(0)
 cv.destroyAllWindows()
 
