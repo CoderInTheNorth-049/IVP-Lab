@@ -5,7 +5,7 @@ import numpy as np
 img = cv.imread('input_imgs/parrot.jpg')
 
 # Convert the image to grayscale
-grayScale_img = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
+grayScale_img = cv.cvtColor(img, cv.COLOR_RGB2GRAY)
 
 # Display the original and grayscale images
 cv.imshow("Original Parrot", img)
@@ -13,8 +13,7 @@ cv.imshow("Grayscale Parrot", grayScale_img)
 
 # Wait for a key event and then close the windows
 cv.waitKey(0)
-cv.destroyWindow("Original Parrot")
-cv.destroyWindow("Grayscale Parrot")
+cv.destroyAllWindows()
 
 # Create a negative image by subtracting pixel values from 255
 neg_img = 255 - img
@@ -25,8 +24,7 @@ cv.imshow("Negative Parrot", neg_img)
 
 # Wait for a key event and then close the windows
 cv.waitKey(0)
-cv.destroyWindow("Original Parrot")
-cv.destroyWindow("Negative Parrot")
+cv.destroyAllWindows()
 
 # Apply thresholding to the grayscale image
 thresholdVal = 127
@@ -40,9 +38,7 @@ cv.imshow("Threshold-inverse Parrot", threshold_img_inv)
 
 # Wait for a key event and then close the windows
 cv.waitKey(0)
-cv.destroyWindow("Grayscale Parrot")
-cv.destroyWindow("Threshold Parrot")
-cv.destroyWindow("Threshold-inverse Parrot")
+cv.destroyAllWindows()
 
 # Adjust the brightness and darkness of the grayscale image
 brightness_change = 50
@@ -56,9 +52,7 @@ cv.imshow("Darkened Parrot", dark_img.astype(np.uint8))
 
 # Wait for a key event and then close the windows
 cv.waitKey(0)
-cv.destroyWindow("Grayscale Parrot")
-cv.destroyWindow("Brightened Parrot")
-cv.destroyWindow("Darkened Parrot")
+cv.destroyAllWindows()
 
 # Bit-plane manipulation
 h, w = grayScale_img.shape

@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="bit_planing" />
+    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bright_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bright_parrot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/dark_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/dark_parrot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/gray_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/gray_parrot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/threshold-inv_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/threshold-inv_parrot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/threshold_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/threshold_parrot.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,21 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1705725221868</updated>
       <workItem from="1705725226652" duration="3016000" />
-      <workItem from="1705927027314" duration="3502000" />
+      <workItem from="1705927027314" duration="4204000" />
+      <workItem from="1706329710946" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="changes made">
       <option name="closed" value="true" />
@@ -113,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705932351939</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="bit_planing">
+      <option name="closed" value="true" />
+      <created>1705932667726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705932667726</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +165,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="bit_planing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1705932200272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS1" />
+    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1706330864005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS1" />
   </component>
 </project>
