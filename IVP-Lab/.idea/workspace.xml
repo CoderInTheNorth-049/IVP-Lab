@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="" />
+    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASS2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASS2/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710566262199</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="main">
+      <option name="closed" value="true" />
+      <created>1710566784077</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710566784077</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,9 +165,10 @@
     <MESSAGE value="threshold added" />
     <MESSAGE value="darkening and lightning added" />
     <MESSAGE value="bit_planing" />
-    <option name="LAST_COMMIT_MESSAGE" value="bit_planing" />
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1710564909752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS2" />
+    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1710566893986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS2" />
   </component>
 </project>
