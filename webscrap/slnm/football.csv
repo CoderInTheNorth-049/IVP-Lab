@@ -1,0 +1,559 @@
+home,away
+Cadiz,Alaves
+Alaves,Sevilla
+Getafe,Alaves
+Alaves,Valencia
+Vallecano,Alaves
+Alaves,Ath Bilbao
+Celta,Alaves
+Alaves,Osasuna
+Alaves,Betis
+Villarreal,Alaves
+Ath Madrid,Alaves
+Alaves,Almeria
+Barcelona,Alaves
+Alaves,Granada
+Mallorca,Alaves
+Alaves,Las Palmas
+Girona,Alaves
+Alaves,Real Madrid
+Sociedad,Alaves
+Sevilla,Alaves
+Alaves,Cadiz
+Almeria,Alaves
+Alaves,Barcelona
+Alaves,Villarreal
+Betis,Alaves
+Alaves,Mallorca
+Osasuna,Alaves
+Alaves,Vallecano
+Almeria,Vallecano
+Almeria,Real Madrid
+Cadiz,Almeria
+Almeria,Celta
+Villarreal,Almeria
+Almeria,Valencia
+Sevilla,Almeria
+Almeria,Granada
+Ath Bilbao,Almeria
+Girona,Almeria
+Almeria,Las Palmas
+Alaves,Almeria
+Almeria,Sociedad
+Getafe,Almeria
+Almeria,Betis
+Ath Madrid,Almeria
+Almeria,Mallorca
+Barcelona,Almeria
+Osasuna,Almeria
+Almeria,Girona
+Real Madrid,Almeria
+Almeria,Alaves
+Valencia,Almeria
+Almeria,Ath Bilbao
+Granada,Almeria
+Almeria,Ath Madrid
+Celta,Almeria
+Almeria,Sevilla
+Ath Bilbao,Real Madrid
+Osasuna,Ath Bilbao
+Ath Bilbao,Betis
+Mallorca,Ath Bilbao
+Ath Bilbao,Cadiz
+Alaves,Ath Bilbao
+Ath Bilbao,Getafe
+Sociedad,Ath Bilbao
+Ath Bilbao,Almeria
+Barcelona,Ath Bilbao
+Ath Bilbao,Valencia
+Villarreal,Ath Bilbao
+Ath Bilbao,Celta
+Girona,Ath Bilbao
+Ath Bilbao,Vallecano
+Granada,Ath Bilbao
+Ath Bilbao,Ath Madrid
+Ath Bilbao,Las Palmas
+Sevilla,Ath Bilbao
+Ath Bilbao,Sociedad
+Valencia,Ath Bilbao
+Cadiz,Ath Bilbao
+Ath Bilbao,Mallorca
+Almeria,Ath Bilbao
+Ath Bilbao,Girona
+Betis,Ath Bilbao
+Ath Bilbao,Barcelona
+Las Palmas,Ath Bilbao
+Ath Madrid,Granada
+Betis,Ath Madrid
+Vallecano,Ath Madrid
+Valencia,Ath Madrid
+Ath Madrid,Real Madrid
+Osasuna,Ath Madrid
+Ath Madrid,Cadiz
+Ath Madrid,Sociedad
+Celta,Ath Madrid
+Ath Madrid,Alaves
+Las Palmas,Ath Madrid
+Ath Madrid,Villarreal
+Ath Madrid,Mallorca
+Barcelona,Ath Madrid
+Ath Madrid,Almeria
+Ath Bilbao,Ath Madrid
+Ath Madrid,Getafe
+Ath Madrid,Sevilla
+Girona,Ath Madrid
+Granada,Ath Madrid
+Ath Madrid,Valencia
+Ath Madrid,Vallecano
+Real Madrid,Ath Madrid
+Sevilla,Ath Madrid
+Ath Madrid,Las Palmas
+Almeria,Ath Madrid
+Ath Madrid,Betis
+Cadiz,Ath Madrid
+Getafe,Barcelona
+Barcelona,Cadiz
+Villarreal,Barcelona
+Osasuna,Barcelona
+Barcelona,Betis
+Barcelona,Celta
+Mallorca,Barcelona
+Barcelona,Sevilla
+Granada,Barcelona
+Barcelona,Ath Bilbao
+Barcelona,Real Madrid
+Sociedad,Barcelona
+Barcelona,Alaves
+Vallecano,Barcelona
+Barcelona,Ath Madrid
+Barcelona,Girona
+Valencia,Barcelona
+Barcelona,Almeria
+Las Palmas,Barcelona
+Betis,Barcelona
+Barcelona,Villarreal
+Barcelona,Osasuna
+Alaves,Barcelona
+Barcelona,Granada
+Celta,Barcelona
+Barcelona,Getafe
+Ath Bilbao,Barcelona
+Barcelona,Mallorca
+Villarreal,Betis
+Betis,Ath Madrid
+Ath Bilbao,Betis
+Betis,Vallecano
+Barcelona,Betis
+Betis,Cadiz
+Granada,Betis
+Betis,Valencia
+Alaves,Betis
+Getafe,Betis
+Betis,Osasuna
+Betis,Mallorca
+Sevilla,Betis
+Betis,Las Palmas
+Almeria,Betis
+Betis,Real Madrid
+Sociedad,Betis
+Betis,Girona
+Celta,Betis
+Betis,Granada
+Betis,Barcelona
+Mallorca,Betis
+Betis,Getafe
+Cadiz,Betis
+Betis,Alaves
+Betis,Ath Bilbao
+Ath Madrid,Betis
+Betis,Villarreal
+Cadiz,Alaves
+Barcelona,Cadiz
+Cadiz,Almeria
+Cadiz,Villarreal
+Ath Bilbao,Cadiz
+Betis,Cadiz
+Cadiz,Vallecano
+Ath Madrid,Cadiz
+Cadiz,Girona
+Valencia,Cadiz
+Cadiz,Sevilla
+Getafe,Cadiz
+Cadiz,Real Madrid
+Mallorca,Cadiz
+Celta,Cadiz
+Cadiz,Osasuna
+Las Palmas,Cadiz
+Cadiz,Sociedad
+Granada,Cadiz
+Cadiz,Valencia
+Alaves,Cadiz
+Cadiz,Ath Bilbao
+Villarreal,Cadiz
+Cadiz,Betis
+Osasuna,Cadiz
+Cadiz,Celta
+Vallecano,Cadiz
+Cadiz,Ath Madrid
+Celta,Osasuna
+Sociedad,Celta
+Celta,Real Madrid
+Almeria,Celta
+Celta,Mallorca
+Barcelona,Celta
+Celta,Alaves
+Las Palmas,Celta
+Celta,Getafe
+Celta,Ath Madrid
+Girona,Celta
+Celta,Sevilla
+Ath Bilbao,Celta
+Valencia,Celta
+Celta,Cadiz
+Vallecano,Celta
+Celta,Granada
+Villarreal,Celta
+Celta,Betis
+Mallorca,Celta
+Celta,Sociedad
+Celta,Girona
+Osasuna,Celta
+Getafe,Celta
+Celta,Barcelona
+Cadiz,Celta
+Celta,Almeria
+Real Madrid,Celta
+Getafe,Barcelona
+Girona,Getafe
+Getafe,Alaves
+Real Madrid,Getafe
+Getafe,Osasuna
+Sociedad,Getafe
+Ath Bilbao,Getafe
+Getafe,Villarreal
+Celta,Getafe
+Getafe,Betis
+Mallorca,Getafe
+Getafe,Cadiz
+Granada,Getafe
+Getafe,Almeria
+Las Palmas,Getafe
+Getafe,Valencia
+Sevilla,Getafe
+Ath Madrid,Getafe
+Getafe,Vallecano
+Osasuna,Getafe
+Getafe,Granada
+Getafe,Real Madrid
+Betis,Getafe
+Getafe,Celta
+Villarreal,Getafe
+Barcelona,Getafe
+Getafe,Las Palmas
+Valencia,Getafe
+Sociedad,Girona
+Girona,Getafe
+Sevilla,Girona
+Girona,Las Palmas
+Granada,Girona
+Girona,Mallorca
+Villarreal,Girona
+Girona,Real Madrid
+Cadiz,Girona
+Girona,Almeria
+Girona,Celta
+Osasuna,Girona
+Vallecano,Girona
+Girona,Ath Bilbao
+Girona,Valencia
+Barcelona,Girona
+Girona,Alaves
+Betis,Girona
+Girona,Ath Madrid
+Almeria,Girona
+Girona,Sevilla
+Celta,Girona
+Girona,Sociedad
+Real Madrid,Girona
+Ath Bilbao,Girona
+Girona,Vallecano
+Mallorca,Girona
+Girona,Osasuna
+Ath Madrid,Granada
+Granada,Vallecano
+Granada,Mallorca
+Sociedad,Granada
+Granada,Girona
+Las Palmas,Granada
+Granada,Betis
+Almeria,Granada
+Granada,Barcelona
+Osasuna,Granada
+Granada,Villarreal
+Valencia,Granada
+Granada,Getafe
+Alaves,Granada
+Real Madrid,Granada
+Granada,Ath Bilbao
+Celta,Granada
+Granada,Sevilla
+Granada,Cadiz
+Betis,Granada
+Granada,Ath Madrid
+Getafe,Granada
+Granada,Las Palmas
+Barcelona,Granada
+Granada,Almeria
+Villarreal,Granada
+Granada,Sociedad
+Las Palmas,Mallorca
+Valencia,Las Palmas
+Las Palmas,Sociedad
+Girona,Las Palmas
+Sevilla,Las Palmas
+Las Palmas,Granada
+Real Madrid,Las Palmas
+Las Palmas,Celta
+Villarreal,Las Palmas
+Las Palmas,Vallecano
+Almeria,Las Palmas
+Las Palmas,Ath Madrid
+Osasuna,Las Palmas
+Betis,Las Palmas
+Las Palmas,Getafe
+Alaves,Las Palmas
+Las Palmas,Cadiz
+Ath Bilbao,Las Palmas
+Las Palmas,Barcelona
+Las Palmas,Villarreal
+Vallecano,Las Palmas
+Las Palmas,Real Madrid
+Granada,Las Palmas
+Las Palmas,Valencia
+Ath Madrid,Las Palmas
+Las Palmas,Osasuna
+Getafe,Las Palmas
+Las Palmas,Ath Bilbao
+Las Palmas,Mallorca
+Mallorca,Villarreal
+Granada,Mallorca
+Mallorca,Ath Bilbao
+Celta,Mallorca
+Girona,Mallorca
+Mallorca,Barcelona
+Vallecano,Mallorca
+Mallorca,Valencia
+Sociedad,Mallorca
+Mallorca,Getafe
+Betis,Mallorca
+Ath Madrid,Mallorca
+Mallorca,Cadiz
+Mallorca,Alaves
+Mallorca,Sevilla
+Almeria,Mallorca
+Mallorca,Osasuna
+Real Madrid,Mallorca
+Mallorca,Celta
+Villarreal,Mallorca
+Mallorca,Betis
+Ath Bilbao,Mallorca
+Mallorca,Vallecano
+Mallorca,Sociedad
+Alaves,Mallorca
+Mallorca,Girona
+Barcelona,Mallorca
+Celta,Osasuna
+Osasuna,Ath Bilbao
+Valencia,Osasuna
+Osasuna,Barcelona
+Getafe,Osasuna
+Osasuna,Sevilla
+Osasuna,Ath Madrid
+Alaves,Osasuna
+Real Madrid,Osasuna
+Osasuna,Granada
+Betis,Osasuna
+Osasuna,Girona
+Osasuna,Las Palmas
+Villarreal,Osasuna
+Osasuna,Sociedad
+Cadiz,Osasuna
+Osasuna,Vallecano
+Mallorca,Osasuna
+Osasuna,Almeria
+Osasuna,Getafe
+Sevilla,Osasuna
+Barcelona,Osasuna
+Osasuna,Celta
+Sociedad,Osasuna
+Osasuna,Cadiz
+Las Palmas,Osasuna
+Osasuna,Alaves
+Girona,Osasuna
+Ath Bilbao,Real Madrid
+Almeria,Real Madrid
+Celta,Real Madrid
+Real Madrid,Getafe
+Real Madrid,Sociedad
+Ath Madrid,Real Madrid
+Real Madrid,Las Palmas
+Girona,Real Madrid
+Real Madrid,Osasuna
+Sevilla,Real Madrid
+Barcelona,Real Madrid
+Real Madrid,Vallecano
+Real Madrid,Valencia
+Cadiz,Real Madrid
+Real Madrid,Granada
+Betis,Real Madrid
+Real Madrid,Villarreal
+Alaves,Real Madrid
+Real Madrid,Mallorca
+Real Madrid,Almeria
+Las Palmas,Real Madrid
+Getafe,Real Madrid
+Real Madrid,Ath Madrid
+Real Madrid,Girona
+Vallecano,Real Madrid
+Real Madrid,Sevilla
+Valencia,Real Madrid
+Real Madrid,Celta
+Sevilla,Valencia
+Alaves,Sevilla
+Sevilla,Girona
+Sevilla,Las Palmas
+Osasuna,Sevilla
+Sevilla,Almeria
+Barcelona,Sevilla
+Sevilla,Vallecano
+Sevilla,Real Madrid
+Cadiz,Sevilla
+Celta,Sevilla
+Sevilla,Betis
+Sociedad,Sevilla
+Sevilla,Villarreal
+Mallorca,Sevilla
+Sevilla,Getafe
+Granada,Sevilla
+Ath Madrid,Sevilla
+Sevilla,Ath Bilbao
+Sevilla,Alaves
+Girona,Sevilla
+Sevilla,Osasuna
+Vallecano,Sevilla
+Sevilla,Ath Madrid
+Valencia,Sevilla
+Real Madrid,Sevilla
+Sevilla,Sociedad
+Almeria,Sevilla
+Sociedad,Girona
+Sociedad,Celta
+Las Palmas,Sociedad
+Sociedad,Granada
+Real Madrid,Sociedad
+Sociedad,Getafe
+Valencia,Sociedad
+Sociedad,Ath Bilbao
+Ath Madrid,Sociedad
+Sociedad,Mallorca
+Vallecano,Sociedad
+Sociedad,Barcelona
+Almeria,Sociedad
+Sociedad,Sevilla
+Osasuna,Sociedad
+Villarreal,Sociedad
+Sociedad,Betis
+Cadiz,Sociedad
+Sociedad,Alaves
+Ath Bilbao,Sociedad
+Celta,Sociedad
+Sociedad,Vallecano
+Girona,Sociedad
+Sociedad,Osasuna
+Mallorca,Sociedad
+Sociedad,Villarreal
+Sevilla,Sociedad
+Granada,Sociedad
+Sevilla,Valencia
+Valencia,Las Palmas
+Valencia,Osasuna
+Alaves,Valencia
+Valencia,Ath Madrid
+Almeria,Valencia
+Valencia,Sociedad
+Betis,Valencia
+Mallorca,Valencia
+Valencia,Cadiz
+Ath Bilbao,Valencia
+Valencia,Granada
+Real Madrid,Valencia
+Valencia,Celta
+Girona,Valencia
+Getafe,Valencia
+Valencia,Barcelona
+Vallecano,Valencia
+Valencia,Villarreal
+Cadiz,Valencia
+Valencia,Ath Bilbao
+Ath Madrid,Valencia
+Valencia,Almeria
+Las Palmas,Valencia
+Valencia,Sevilla
+Valencia,Real Madrid
+Valencia,Getafe
+Almeria,Vallecano
+Granada,Vallecano
+Vallecano,Ath Madrid
+Betis,Vallecano
+Vallecano,Alaves
+Vallecano,Villarreal
+Cadiz,Vallecano
+Vallecano,Mallorca
+Sevilla,Vallecano
+Las Palmas,Vallecano
+Vallecano,Sociedad
+Real Madrid,Vallecano
+Vallecano,Girona
+Vallecano,Barcelona
+Ath Bilbao,Vallecano
+Vallecano,Celta
+Osasuna,Vallecano
+Vallecano,Valencia
+Getafe,Vallecano
+Vallecano,Las Palmas
+Sociedad,Vallecano
+Ath Madrid,Vallecano
+Vallecano,Sevilla
+Mallorca,Vallecano
+Vallecano,Real Madrid
+Girona,Vallecano
+Vallecano,Cadiz
+Alaves,Vallecano
+Villarreal,Betis
+Mallorca,Villarreal
+Villarreal,Barcelona
+Cadiz,Villarreal
+Villarreal,Almeria
+Vallecano,Villarreal
+Villarreal,Girona
+Getafe,Villarreal
+Villarreal,Las Palmas
+Villarreal,Alaves
+Granada,Villarreal
+Villarreal,Ath Bilbao
+Ath Madrid,Villarreal
+Villarreal,Osasuna
+Sevilla,Villarreal
+Villarreal,Sociedad
+Real Madrid,Villarreal
+Villarreal,Celta
+Valencia,Villarreal
+Las Palmas,Villarreal
+Villarreal,Mallorca
+Barcelona,Villarreal
+Villarreal,Cadiz
+Alaves,Villarreal
+Villarreal,Getafe
+Sociedad,Villarreal
+Villarreal,Granada
+Betis,Villarreal
