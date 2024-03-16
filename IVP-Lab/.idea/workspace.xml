@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bit_plane_7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/bright_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/bright_parrot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/dark_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/dark_parrot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/gray_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/gray_parrot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/threshold-inv_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/threshold-inv_parrot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASS1/output_imgs/threshold_parrot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ASS1/output_imgs/threshold_parrot.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="97b4388b-6ede-4239-9b2b-1f0a421436b1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705932667726</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="bit_planing">
+      <option name="closed" value="true" />
+      <created>1710566262199</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710566262199</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +157,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="bit_planing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1706330864005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS1" />
+    <SUITE FILE_PATH="coverage/IVP_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1710564909752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASS2" />
   </component>
 </project>
