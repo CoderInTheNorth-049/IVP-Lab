@@ -21,9 +21,9 @@ def compress_image(img, quality):
     return compressed_img
 
 
-image = cv.imread('./cameraman.png', cv.IMREAD_GRAYSCALE)
+image = cv.imread('gray_parrot.jpg', cv.IMREAD_GRAYSCALE)
 c = compress_image(image, quality=50)
 cv.imshow('original image', image)
 cv.imshow('compressed Image', c)
-cv.imwrite('compressed_cameraman.jpg',c)
+cv.imwrite('compressed_parrot.jpg',c)
 cv.waitKey(0)
